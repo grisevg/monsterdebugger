@@ -4,7 +4,7 @@ More info: http://www.demonsterdebugger.com/
 
 ## Setup instructions
 
-1. Install library: `haxelib git monsterdebugger git@github.com:grisevg/monsterdebugger.git`.
+1. Install library: `haxelib install monsterdebugger`.
 2. Add library to your project: `-lib monsterdebugger` or `<haxelib name="monsterdebugger" />`
 3. Initialise monster debugger in your code:
 

@@ -1,10 +1,13 @@
 {
 	"name": "monsterbugger",
+	"url" : "https://github.com/as3boyan/node-webkit-haxelib",
 	"license": "LGPL",
 	"description": "Haxe bindings for Monster Debugger 3 (http://www.demonsterdebugger.com/)",
 	"version": "1.0.0",
 	"classPath": "src",
 	"releasenote": "Initial release",
-	"contributors": ["de Monsters, grisevg"],
+	"contributors": ["grisevg"],
+	"tags": ["flash", "debug", "monster", "debugger"],
+	"releasenote": "First release",
 	"dependencies": {}
 }
